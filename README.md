@@ -2,7 +2,7 @@
 
 This repository provides a set of tools for use with Audiokinetic Wwise, leveraging WAAPI (Wwise Authoring API) and Python to automate various tasks.
 
-Please refer to the **[General Setup Instructions]](#Requirements)** below, then check the specific README.md files in the subfolders for detailed explanations of each script.
+Please refer to the **[Setup Instructions](#Requirements)** below, then check the specific README.md files in the subfolders for detailed explanations of each script.
 
 
 ## Requirements
